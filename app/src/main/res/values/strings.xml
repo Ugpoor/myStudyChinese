@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AI Assistant</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="prompt_hint">请输入您的问题...</string>
+    <string name="send">发送</string>
+    <string name="loading">加载中...</string>
+</resources>
